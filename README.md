@@ -1,3 +1,3 @@
-# projet01.FernandoSilva
+# Lógica de programação
 
-Este é o meu repositório
+Aqui se encontra alguns exercícios de lógica de programação usando Python.
